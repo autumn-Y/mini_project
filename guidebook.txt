@@ -1,4 +1,7 @@
 History of this repository
 
-made 25.03.10 monday
-purpose is to get used to with wsl and git
+purpose is to enhance my development skills
+
+
+"wiki" is for archiving dev-log
+"elk-stack" is for practicing how to use docker img and elk
